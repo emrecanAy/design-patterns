@@ -19,7 +19,6 @@ public class Singleton {
             synchronized (Singleton.class){
                 singleton = new Singleton();
             }
-
         }
         count++;
         System.out.println(count);
