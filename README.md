@@ -1,4 +1,4 @@
-# design-patterns
+# Design Patterns
 w/@Java
 
 ## CREATIONAL
