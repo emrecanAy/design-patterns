@@ -1,7 +1,7 @@
 # design-patterns
 w/@Java
 
-#CREATIONAL
-##Singleton
-##Factory
-##Abstract Factory
+# CREATIONAL
+## Singleton 
+## Factory
+## Abstract Factory
